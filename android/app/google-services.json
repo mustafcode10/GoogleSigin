@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1005209839431",
+    "project_id": "trend-67679",
+    "storage_bucket": "trend-67679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005209839431:android:1174439877cbaa40c30e62",
+        "android_client_info": {
+          "package_name": "com.trendgooglesigin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005209839431-s5hfs9j49i6t9u6e8ki7ckbcbeerrh2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Zol99zPcQhcF4yyQPzJjZ0jfaJWxGRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005209839431-s5hfs9j49i6t9u6e8ki7ckbcbeerrh2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005209839431-edp8vj36qd81v6l34qknluus97j8airt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trendgooglesigin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
